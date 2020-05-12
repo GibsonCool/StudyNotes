@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/coulson/Desktop/virtualBoxSpace/markdown笔记/系统学习Docker/chapter4","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
