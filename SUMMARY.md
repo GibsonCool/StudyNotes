@@ -1,4 +1,4 @@
-# nginx 笔记目录
+# 学习笔记目录
 
 * [前言](README.md)
 * [1.0-VirtualBox+Vagrant+centos7](1.0-VirtualBox+Vagrant+centos7.md)
