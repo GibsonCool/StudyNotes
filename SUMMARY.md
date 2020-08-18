@@ -1,7 +1,6 @@
 # 学习笔记目录
 
 * [前言](README.md)
-
 * 系统学习Docker
 
   - [1.0-VirtualBox+Vagrant+centos7+docker.md](系统学习Docker/1.0-VirtualBox+Vagrant+centos7+docker.md)
@@ -12,7 +11,6 @@
   - [3.0-Docker的网络.md](系统学习Docker/3.0-Docker的网络.md)
   - [3.1-Dockerd多机器通信.md](系统学习Docker/3.1-Dockerd多机器通信.md)
   - [CentOS7-基础设置及常见操作命令 .md](系统学习Docker/CentOS7-基础设置及常见操作命令 .md)
-
 * Nginx入门到实践
 
   - [精简介绍](/Nginx入门到实践/README.md)
@@ -35,7 +33,6 @@
   - [4.1-Nginx架构-性能优化](Nginx入门到实践/4.1-Nginx架构-性能优化.md)
   - [4.2-Nginx架构-安全篇](Nginx入门到实践/4.2-Nginx架构-安全篇.md)
   - [Nginx 操作中常见问题,收集中...](Nginx入门到实践/Nginx操作中常见问题.md)
-
 * Redis入门到高可用分布式实践
 
   - [1.0-Redis介绍-安装-启动.md](redis入门到 高可用分布式实践/1.0-Redis介绍-安装-启动.md)
@@ -49,5 +46,12 @@
   - [9.1-深入Redis-Cluster.md](redis入门到 高可用分布式实践/9.1-深入Redis-Cluster.md)
   - [10.1-缓存设计与优化.md](redis入门到 高可用分布式实践/10.1-缓存设计与优化.md)
 
-  
+* 重学MySql
+  - [1.0-数据库选型、MySQL安装.md](重学MySql/1.0-数据库选型、MySQL安装.md)
+  - [2.0-数据库设计.md](重学MySql/2.0-数据库设计.md)
+  - [3.0-SQL.md](重学MySql/3.0-SQL.md)
+  - [4.0-SQL优化.md](重学MySql/4.0-SQL优化.md)
+  - [5.0-事务和并发.md](重学MySql/5.0事务和并发.md)
+  - [6.1新零售数据库设计.md](重学MySql/6.1新零售数据库设计.md)
+  - [6.2常见问题与企业级解决方案.md](重学MySql/6.2常见问题与企业级解决方案.md)
 
